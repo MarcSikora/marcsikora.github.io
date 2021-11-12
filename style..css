@@ -1,0 +1,50 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #161616;
+    background-image: url('background.png');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.bubble {
+    background-color: #3b3b3b80;
+    color: white;
+    padding: 50px;
+    min-width: 200px;
+    height: 200px;
+    border: 2px solid cyan;
+    border-radius: 50%;
+    margin: 10px;
+    box-shadow: 0 0 5px cyan;
+    position: relative;
+}
+
+.bubble:hover {
+    background-color:#38383880;
+    box-shadow: 0 0 10px white;
+}
+
+.bubble-header {
+    font-size: 16pt;
+    text-align: center;
+}
+
+.bubble-content {
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    /* border: 1px solid gray; */
+}
+
+img {
+    width: 80px;
+}
