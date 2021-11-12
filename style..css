@@ -5,14 +5,16 @@ body {
     background-size: cover;
     display: flex;
     justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
+    flex-direction: column;
 }
 
 .bubble {
-    background-color: #3b3b3b80;
+    background-color: #2424249a;
     color: white;
     padding: 50px;
-    min-width: 200px;
+    width: 200px;
     height: 200px;
     border: 2px solid cyan;
     border-radius: 50%;
@@ -22,7 +24,7 @@ body {
 }
 
 .bubble:hover {
-    background-color:#38383880;
+    background-color:#1d1d1d80;
     box-shadow: 0 0 10px white;
 }
 
