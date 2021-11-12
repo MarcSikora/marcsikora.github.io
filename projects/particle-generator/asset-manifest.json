@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/projects/particle-generator/static/css/main.2c049de5.chunk.css",
+    "main.js": "/projects/particle-generator/static/js/main.5a424087.chunk.js",
+    "main.js.map": "/projects/particle-generator/static/js/main.5a424087.chunk.js.map",
+    "runtime-main.js": "/projects/particle-generator/static/js/runtime-main.0cd5f3de.js",
+    "runtime-main.js.map": "/projects/particle-generator/static/js/runtime-main.0cd5f3de.js.map",
+    "static/js/2.26393ba1.chunk.js": "/projects/particle-generator/static/js/2.26393ba1.chunk.js",
+    "static/js/2.26393ba1.chunk.js.map": "/projects/particle-generator/static/js/2.26393ba1.chunk.js.map",
+    "index.html": "/projects/particle-generator/index.html",
+    "static/css/main.2c049de5.chunk.css.map": "/projects/particle-generator/static/css/main.2c049de5.chunk.css.map",
+    "static/js/2.26393ba1.chunk.js.LICENSE.txt": "/projects/particle-generator/static/js/2.26393ba1.chunk.js.LICENSE.txt",
+    "static/media/cloud_01.1965cbb3.png": "/projects/particle-generator/static/media/cloud_01.1965cbb3.png",
+    "static/media/cloud_02.aeb595ee.png": "/projects/particle-generator/static/media/cloud_02.aeb595ee.png",
+    "static/media/cloud_03.ecba3cdc.png": "/projects/particle-generator/static/media/cloud_03.ecba3cdc.png",
+    "static/media/desert_01.efcec25c.png": "/projects/particle-generator/static/media/desert_01.efcec25c.png",
+    "static/media/house_01.898b8c0a.png": "/projects/particle-generator/static/media/house_01.898b8c0a.png",
+    "static/media/mountains_01.6900488d.png": "/projects/particle-generator/static/media/mountains_01.6900488d.png",
+    "static/media/mountains_02.801231b3.png": "/projects/particle-generator/static/media/mountains_02.801231b3.png",
+    "static/media/tree_01.87550c67.png": "/projects/particle-generator/static/media/tree_01.87550c67.png",
+    "static/media/tree_02.40419214.png": "/projects/particle-generator/static/media/tree_02.40419214.png",
+    "static/media/tree_03.8b874c9c.png": "/projects/particle-generator/static/media/tree_03.8b874c9c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cd5f3de.js",
+    "static/js/2.26393ba1.chunk.js",
+    "static/css/main.2c049de5.chunk.css",
+    "static/js/main.5a424087.chunk.js"
+  ]
+}
