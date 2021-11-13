@@ -10,6 +10,10 @@ body {
     flex-direction: column;
 }
 
+a {
+    text-decoration: none;
+}
+
 .blocks {
     width: 600px;
 }
@@ -60,6 +64,8 @@ body {
 
 .imagelist {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .imagelist-item {
@@ -103,4 +109,23 @@ body {
 .button-demo {
     color: cyan;
     border-color: cyan;
+}
+
+@media only screen and (max-width: 600px) {
+    .blocks {
+        width: 100%;
+    }
+
+    .imagelist-item > img {
+        width: 50px;
+    }
+
+    .buttons {
+        flex-direction: column;
+        margin-top: 20px;
+    }
+
+    .button {
+        margin: 10px;
+    }
 }
