@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/projects/garage-configurator/static/css/main.98427481.chunk.css",
+    "main.js": "/projects/garage-configurator/static/js/main.7dded8e6.chunk.js",
+    "main.js.map": "/projects/garage-configurator/static/js/main.7dded8e6.chunk.js.map",
+    "runtime-main.js": "/projects/garage-configurator/static/js/runtime-main.67ad45ad.js",
+    "runtime-main.js.map": "/projects/garage-configurator/static/js/runtime-main.67ad45ad.js.map",
+    "static/js/2.b22841fc.chunk.js": "/projects/garage-configurator/static/js/2.b22841fc.chunk.js",
+    "static/js/2.b22841fc.chunk.js.map": "/projects/garage-configurator/static/js/2.b22841fc.chunk.js.map",
+    "index.html": "/projects/garage-configurator/index.html",
+    "static/css/main.98427481.chunk.css.map": "/projects/garage-configurator/static/css/main.98427481.chunk.css.map",
+    "static/js/2.b22841fc.chunk.js.LICENSE.txt": "/projects/garage-configurator/static/js/2.b22841fc.chunk.js.LICENSE.txt",
+    "static/media/bright.b11c9c4e.png": "/projects/garage-configurator/static/media/bright.b11c9c4e.png",
+    "static/media/brightWood.d62e7e8d.png": "/projects/garage-configurator/static/media/brightWood.d62e7e8d.png",
+    "static/media/dark.8d11f2fd.png": "/projects/garage-configurator/static/media/dark.8d11f2fd.png",
+    "static/media/darkWood.ecf3fc4a.png": "/projects/garage-configurator/static/media/darkWood.ecf3fc4a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67ad45ad.js",
+    "static/js/2.b22841fc.chunk.js",
+    "static/css/main.98427481.chunk.css",
+    "static/js/main.7dded8e6.chunk.js"
+  ]
+}
