@@ -14,6 +14,14 @@ a {
     text-decoration: none;
 }
 
+h3 {
+    text-align: center;
+}
+
+i {
+    font-size: 10pt;
+}
+
 .blocks {
     width: 600px;
 }
@@ -110,6 +118,8 @@ a {
     color: cyan;
     border-color: cyan;
 }
+
+
 
 @media only screen and (max-width: 600px) {
     .blocks {
